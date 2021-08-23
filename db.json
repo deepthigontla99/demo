@@ -18,22 +18,6 @@
       "salary": 24000,
       "designation": "Training Cordinator"
     }
-  ],
-  "users":[
-  {
-  "username":"deepthi",
-  "password":"123456",
-  "user_type":"admin",
-},
-{
-  "username":"bhavana",
-  "password":"123456",
-  "user_type":"admin",
-},
-{
-  "username":"jyothi",
-  "password":"123456",
-  "user_type":"admin",
-}
   ]
+  
 }
